@@ -1,2 +1,5 @@
+github.com/nikosheng/golearning v0.0.0-20210531152844-99755ecd419e/go.mod h1:FA1JirJz8i/KXyKURvvErOhFQKhoT/usvEx8MQrjb64=
 github.com/nikosheng/golearning/customer v0.0.0-20210531151518-db9fbcc3e07b h1:aYNuiX+5mJTi59CbJhRzmmoFKclOSNlyrzu+UttHjw4=
 github.com/nikosheng/golearning/customer v0.0.0-20210531151518-db9fbcc3e07b/go.mod h1:7Msq4+znqjd1bP1Cdnr6Nuyj4eYxYeS76PrKcewnJAc=
+github.com/nikosheng/golearning/customer v0.0.0-20210531152844-99755ecd419e h1:gUj/L1muIF5qOYcqC+SR/AE5GdsmjjhoUHN2PKVQHa0=
+github.com/nikosheng/golearning/customer v0.0.0-20210531152844-99755ecd419e/go.mod h1:7Msq4+znqjd1bP1Cdnr6Nuyj4eYxYeS76PrKcewnJAc=

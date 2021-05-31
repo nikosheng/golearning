@@ -13,7 +13,8 @@ func GetCustomers() (customers []Customer) {
 
 	customers = append(customers,
 		Customer{FirstName: "Niko", LastName: "Feng"},
-		Customer{FirstName: "Dora", LastName: "Deng"})
+		Customer{FirstName: "Dora", LastName: "Deng"},
+		Customer{FirstName: "Michelle", LastName: "Feng"})
 
 	return customers
 }
